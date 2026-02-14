@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 AMAT - Android Memory Acquisition Tool
-COMPLETE FORENSIC SOLUTION v5.0
+COMPLETE FORENSIC SOLUTION v1.0
 
 Combines acquisition and analysis in a single tool:
 - Full forensic data acquisition (rooted & non-rooted devices)
@@ -10,7 +10,7 @@ Combines acquisition and analysis in a single tool:
 - Interactive analysis interface
 
 Author: Forensic Research Project
-Version: 5.0 COMPLETE
+Version: 1.0 COMPLETE
 License: Academic Use Only
 """
 
@@ -33,7 +33,7 @@ from dataclasses import dataclass, asdict
 # ============================================================================
 
 class Config:
-    VERSION = "5.0-COMPLETE"
+    VERSION = "1.0"
     TOOL_NAME = "AMAT"
     
     # Acquisition settings
@@ -1610,4 +1610,5 @@ def main():
         print("Invalid choice")
 
 if __name__ == "__main__":
+
     main()
