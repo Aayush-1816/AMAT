@@ -665,9 +665,9 @@ AMAT demonstrates:
 
 ### **Author**
 - **Name**: Aayush Saxena
-- **Role**: Digital Forensics Engineer
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yourprofile)
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Role**: Cyber Security student
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/aayush-saxena-296100262)
+- **GitHub**: [@myuserid](https://github.com/Aayush-1816)
 
 
 ---
